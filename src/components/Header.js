@@ -27,14 +27,14 @@ const Header = ()=>{
       <div className={style.text}>
       <div >
             {/* <h1 className={style.mainHeading}>SELF RIDE BIKE RENTALS</h1> */}
-            <h1 className={style.mainHeading}>ALL IN ONE PLACE</h1>
+            <h1 className={style.mainHeading}>SELF RIDE BIKE RENTALS</h1>
       </div>
       <div >
             {/* <h2 className={style.subHeading}>RENT TODAY, OWN TOMORROW</h2> */}
-            <h2 className={style.subHeading}>FOR AUCTIONING AND BIDDING</h2>
+            <h2 className={style.subHeading}>RENT TODAY, OWN TOMORROW</h2>
       </div>
       <div >
-            <h3 className={style.subText}>Make your own career</h3>
+            <h3 className={style.subText}>Explore your life to the fullest</h3>
       </div>
       </div>
     </div>
